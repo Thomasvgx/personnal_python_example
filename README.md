@@ -2,7 +2,7 @@
 
 * Sorting
   + [x] Insertion Sort
-  + [ ] Selection Sort
+  + [x] Selection Sort
   + [ ] Heap Sort
   + [ ] Merge Sort
   + [x] Quick Sort
